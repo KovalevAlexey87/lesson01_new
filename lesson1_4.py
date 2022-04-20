@@ -22,3 +22,4 @@ while n >= 1:
     else:
         print(f"Максимальное цифра в числе - {max_number}")
         break
+ 
